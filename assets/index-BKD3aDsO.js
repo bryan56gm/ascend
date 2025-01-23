@@ -283,8 +283,8 @@ Error generating stack: `+c.message+`
   ${Ct.tablet`
     width: 80px;
     left: initial;
-    right: 14rem;
-    bottom: -3.5rem;
+    right: 10rem;
+    bottom: -5rem;
   `}
 `,l_=Ee.div`
   
