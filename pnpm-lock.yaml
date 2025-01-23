@@ -8,9 +8,6 @@ importers:
 
   .:
     dependencies:
-      gh-pages:
-        specifier: ^6.3.0
-        version: 6.3.0
       gsap:
         specifier: ^3.12.7
         version: 3.12.7
@@ -36,6 +33,9 @@ importers:
       '@vitejs/plugin-react-swc':
         specifier: ^3.5.0
         version: 3.7.2(vite@6.0.9)
+      gh-pages:
+        specifier: ^6.3.0
+        version: 6.3.0
       globals:
         specifier: ^15.14.0
         version: 15.14.0

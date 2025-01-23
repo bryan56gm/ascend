@@ -72,8 +72,8 @@ export const HeroLantern2 = styled.img`
   ${device.tablet`
     width: 80px;
     left: initial;
-    right: 14rem;
-    bottom: -3.5rem;
+    right: 10rem;
+    bottom: -5rem;
   `}
 `
 export const HeroImagesBg = styled.div`
